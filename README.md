@@ -65,6 +65,4 @@ Spam mail
 ## Conclusion
 This project successfully detects spam emails using **TF-IDF vectorization** and **Logistic Regression**, achieving high accuracy. Future improvements could involve deep learning techniques or additional NLP preprocessing for better results.
 
-## License
-This project is licensed under the MIT License.
 
